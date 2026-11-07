@@ -1,0 +1,18 @@
+# Keep the repository limited to the requested analysis files.
+/*
+!/.gitignore
+!/README.md
+!/requirements.txt
+!/assignment1_hsbc.ipynb
+!/Assignment 1 data file - HSBC .xlsx
+!/outputs/
+/outputs/*
+!/outputs/tables/
+!/outputs/figures/
+
+# Local caches and temporary Office files
+.DS_Store
+**/.DS_Store
+**/~$*
+**/.ipynb_checkpoints/
+**/__pycache__/
