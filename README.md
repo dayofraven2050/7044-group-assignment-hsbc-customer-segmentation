@@ -1,4 +1,4 @@
-# MSMK7044 Group Assignment — HSBC Customer Segmentation
+# MSMK7044 Group Assignment — HSBC Customer Segmentation — Group 9
 
 Python analysis for MSMK7044 Assignment 1, covering data cleaning, descriptive statistics, systematic data problems, K-means, K-prototypes and hierarchical clustering.
 
